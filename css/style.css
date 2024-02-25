@@ -1,0 +1,12 @@
+.header{
+    background-image: url("../images/bgimage.png");
+}
+.navbar{
+    background-color: transparent !important;
+}
+#footer{
+    background-image: url("../images/bgimage.png");
+}
+.name_css{
+    font-family:sans-serif;
+}
